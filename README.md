@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbopaiah
+- 👋 Hi, I’m Dithin Bopaiah
 - 👀 Interested in developing a open world game
 - 💞️ I’m looking to collaborate on an intersting project
 - 💼 any freelance work? do reach, email :) 
