@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Dithin Bopaiah
-- 👀 Interested in developing a open world game
+- 👋 Hi, I’m Dithin 
+- 👀 Interested in developing projects
 - 💞️ I’m looking to collaborate on an intersting project
-- 💼 any freelance work? do reach, email :) 
 
 **languages and tools:**  
 
